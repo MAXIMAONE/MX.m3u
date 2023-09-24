@@ -122,6 +122,11 @@ https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/62407
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CARACOL TV" tvg-logo="https://x.playerlatino.live/caracol.png"
 https://v3.playerlatino.live/stream/m3u8/290
+#EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480"
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv CD JUAREZ" tvg-logo="https://www.tvjuarez.net/wp-content/uploads/2023/01/TV-JUAREZ-1024x485.png"
+https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
+
 
 
 
