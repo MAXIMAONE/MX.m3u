@@ -24,7 +24,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="General",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Undefined",Jalisco TV (720p) [Geo-blocked]
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
@@ -125,7 +124,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-id="tv CD JUAREZ" tvg-logo="https://www.tvjuarez.net/wp-content/uploads/2023/01/TV-JUAREZ-1024x485.png"
 https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
-
 #EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://pbs.twimg.com/profile_images/1612332068700037121/KVVT242G_400x400.jpg"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es"
