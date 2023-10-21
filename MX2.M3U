@@ -22,22 +22,10 @@ https://mediacp.us:8081/8002/index.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religious",Monte Maria (1080p)
 https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="CANAL 6" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOzBdEGre0Ub8EpEXowRy6OnRPZEw-zCGqg_cHLIQ=s900-c-k-c0x00ffffff-no-rj"
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-id="Kids SEO TV" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids",SEO TV Kids (1080p)
-https://live.seo.tv.bo/live/2SEO.m3u8
-#EXTINF:-1 tvg-id="Novelas SEO TV" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Series",SEO TV Novelas (1080p)
-https://live.seo.tv.bo/live/3SEO.m3u8
-#EXTINF:-1 tvg-id="Peliculas SEO" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Movies",SEO TV Películas (1080p)
-https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Undefined",Teleritmo (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="BBC AMERICA" tvg-logo="https://logowik.com/content/uploads/images/bbc-america9038.jpg"
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480"
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 tvg-id="tv CD JUAREZ" tvg-logo="https://www.tvjuarez.net/wp-content/uploads/2023/01/TV-JUAREZ-1024x485.png"
-https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 #EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://pbs.twimg.com/profile_images/1612332068700037121/KVVT242G_400x400.jpg"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es"
@@ -52,6 +40,5 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://cdn-profiles.tunein.com/s88549/images/logog.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/162201
-#EXTINF:-1 tvg-id="Imagen Television" tvg-logo="https://i.blogs.es/213596/imagen-tv-logo/1366_2000.jpg"
 
-DE HOY DO
+sabado
