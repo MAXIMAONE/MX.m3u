@@ -1,38 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="UNO TV" tvg-logo="https://m.media-amazon.com/images/I/41OgT8FESBL.png"
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/800px-Logo_Univision_2013.svg.png"
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",María Visión Mexico (360p) [Not 24/7]
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
-https://mediacp.us:8081/8002/index.m3u8
-#EXTINF:-1 tvg-id="MILENIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png"
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religious",Monte Maria (1080p)
-https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Undefined",Teleritmo (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480"
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://pbs.twimg.com/profile_images/1612332068700037121/KVVT242G_400x400.jpg"
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es"
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="AZTECA-7" tvg-logo="https://www.paredro.com/wp-content/uploads/2016/12/antes.jpeg"
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-id="A MAS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png"
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="ORIGEN TV" tvg-logo="https://scontent.fcjs1-2.fna.fbcdn.net/v/t39.30808-6/306843250_448387573979396_1463564788633354163_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=52f669&_nc_ohc=dg-McxvIQXMAX-lVeXo&_nc_ht=scontent.fcjs1-2.fna&oh=00_AfBxobZSTod2yljjcEQg--SsE-st0fAUyTqmv3myndUXPA&oe=65190DDE"
-https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
-#EXTINF:-1 tvg-id="CANAL 6 MONTERREY" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPQnUY3XHSVdbRuetsJSxKL9RIn7QIQexwTdX5cLB8=s900-c-k-c0x00ffffff-no-rj"
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-LUNES,,
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/91zqGNzwk5L._AC_SL1500_.jpg", Super Mario Bros La Pelicula | REGIOFLIX
+http://notabasica.com/909032/The.Super.Mario.Bros.Movie.2023.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_FMjpg_UX1000_.jpg", Evil Dead Rise | REGIOFLIX
+http://notabasica.com/909032/Evil.Dead.Rise.2023.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.imgur.com/WasvFSz.jpg", Misterio a la vista 2 | REGIOFLIX
+http://notabasica.com/909032/Murder.Mystery.2.2023.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY1OWI4M2UtYjRlNi00ZjBmLWE5OTYtYjlmNzY0ODEwNDBhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg", Tetris | REGIOFLIX
+http://notabasica.com/909032/Tetris.2023.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogX3cg-Bna4HgYPGluls4gHcAuP8S4B1kn3S51OPnh_KfsIXbJQPJsw-8e96YJ3Cz_YJ8wRPn_eibpf_dkUZegAKtJDPPKXINAODF1mmfWmAFpXQyKomaui8cm9G5pY-MBQLiSe9oikGXrt8qUiKEwKtlGpnG2V5TrZ_8523PtSLJ_Urqt2SpZNHtTQ/s320/Creed_III_Poster.jpg", CREED III | REGIOFLIX
+http://notabasica.com/909032/Creed.3.2023.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuEVr9Sf0eRM3u3JFFNn7yGC45rdNS_loHNBScUPEDTFa5iMea3CxXVCzq_ZTWPeBCjllc_umgRkCFGlpTqEwKiufdFDINA3FPhDIJ0tjtfHRgUXyCQd693WDzSpyDhZsVdgEcsY7oFm2VSHYgk21mtlY3d_W80ASr32VEsppqF1vLpQyfBGpfuswNcw/s320/PUEDES-HACERLO-CHANG.jpg", Puedes hacerlo Chang | REGIOFLIX
+http://192.168.0.122:4040/share/fTBGB/pruebapeli.mp4
+
