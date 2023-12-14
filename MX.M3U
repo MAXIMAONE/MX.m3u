@@ -34,5 +34,24 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL 6 MONTERREY" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPQnUY3XHSVdbRuetsJSxKL9RIn7QIQexwTdX5cLB8=s900-c-k-c0x00ffffff-no-rj"
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="Canal 44 Chihuahua" tvg-logo="https://mx.top10place.com/img_files/1498335377065442"
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg"
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="TOON TUBERS" tvg-logo="https://cn.i.cdn.ti-platform.com/content/938/showpage/toontubers/ar/tt.png"
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="Excélsior TV" tvg-logo="https://cdn2.imagenradio.com.mx/media/files/imagen_radio/styles/large/public/images/logo-excelsior-tv-hd-300713_0.png"
+https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg"
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL LAS ESTRELLAS" tvg-logo="https://nukspvc.com/1031-large_default/memoria-usb-promocional-en-forma-de-logo-las-estrellas.jpg"
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png"
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TELEFORMULA" tvg-logo="https://www.prensario.net/Multimedios/imgs/55254_750.jpg?v=4"
+#EXTINF:-1 tvg-id="VB Media TV" tvg-logo="https://pbs.twimg.com/profile_images/1720457292154327040/YbRlYbQP_400x400.jpg"
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
-LUNES,,
+
+
+14-12
