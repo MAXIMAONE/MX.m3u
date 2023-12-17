@@ -6,8 +6,6 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="UNO TV" tvg-logo="https://m.media-amazon.com/images/I/41OgT8FESBL.png"
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/800px-Logo_Univision_2013.svg.png"
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",María Visión Mexico (360p) [Not 24/7]
@@ -40,8 +38,6 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 tvg-id="TOON TUBERS" tvg-logo="https://cn.i.cdn.ti-platform.com/content/938/showpage/toontubers/ar/tt.png"
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="Excélsior TV" tvg-logo="https://cdn2.imagenradio.com.mx/media/files/imagen_radio/styles/large/public/images/logo-excelsior-tv-hd-300713_0.png"
-https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg"
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL LAS ESTRELLAS" tvg-logo="https://nukspvc.com/1031-large_default/memoria-usb-promocional-en-forma-de-logo-las-estrellas.jpg"
@@ -54,4 +50,4 @@ https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
 
 
-14v 12 v
+17 a 12
