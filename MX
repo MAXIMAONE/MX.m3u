@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="UNO TV" tvg-logo="https://m.media-amazon.com/images/I/41OgT8FESBL.png"
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
@@ -24,10 +22,6 @@ https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="AZTECA-7" tvg-logo="https://www.paredro.com/wp-content/uploads/2016/12/antes.jpeg"
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-id="A MAS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png"
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="ORIGEN TV" tvg-logo="https://scontent.fcjs1-2.fna.fbcdn.net/v/t39.30808-6/306843250_448387573979396_1463564788633354163_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=52f669&_nc_ohc=dg-McxvIQXMAX-lVeXo&_nc_ht=scontent.fcjs1-2.fna&oh=00_AfBxobZSTod2yljjcEQg--SsE-st0fAUyTqmv3myndUXPA&oe=65190DDE"
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL 6 MONTERREY" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPQnUY3XHSVdbRuetsJSxKL9RIn7QIQexwTdX5cLB8=s900-c-k-c0x00ffffff-no-rj"
@@ -40,8 +34,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg"
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CANAL LAS ESTRELLAS" tvg-logo="https://nukspvc.com/1031-large_default/memoria-usb-promocional-en-forma-de-logo-las-estrellas.jpg"
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png"
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="VB Media TV" tvg-logo="https://pbs.twimg.com/profile_images/1720457292154327040/YbRlYbQP_400x400.jpg"
@@ -49,4 +41,4 @@ https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
 
 
-768769a
+jueves
