@@ -16,8 +16,6 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="ORIGEN TV" tvg-logo="https://scontent.fcjs1-2.fna.fbcdn.net/v/t39.30808-6/306843250_448387573979396_1463564788633354163_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=52f669&_nc_ohc=dg-McxvIQXMAX-lVeXo&_nc_ht=scontent.fcjs1-2.fna&oh=00_AfBxobZSTod2yljjcEQg--SsE-st0fAUyTqmv3myndUXPA&oe=65190DDE"
-https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL 6 MONTERREY" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPQnUY3XHSVdbRuetsJSxKL9RIn7QIQexwTdX5cLB8=s900-c-k-c0x00ffffff-no-rj"
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Canal 44 Chihuahua" tvg-logo="https://mx.top10place.com/img_files/1498335377065442"
@@ -35,18 +33,8 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png"
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SPACE 02" tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg"
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:-1 tvg-id="Televisa Ciudad Juarez" tvg-logo=""
-https://ythls.armelin.one/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 #EXTINF:-1 tvg-id="CANAL5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png"
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg"
-http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 tvg-id="MC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png"
-http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
 
 
-
-
-
-
+hoy
