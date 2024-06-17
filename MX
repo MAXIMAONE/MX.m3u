@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="UNO TV" tvg-logo="https://m.media-amazon.com/images/I/41OgT8FESBL.png"
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
@@ -33,7 +33,16 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png"
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SPACE 02" tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg"
+#EXTINF:-1 tvg-id=" Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png"
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png"
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="El NU9VE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072018/untitled-1_217.png?PZIaGxeEBXOkzEkCwtjpABr1vGTwUv2u&itok=0mfJ1Jvm"
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo=""
 
 
