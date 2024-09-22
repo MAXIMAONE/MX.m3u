@@ -12,3 +12,10 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/1971.ts
 #EXTINF:-1 tvg-id=" FOX SPORTS  2 (México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png"
 http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132269.ts
+#EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480-rw"
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id=" Recuerdos Retro Radio TV ✪ " tvg-logo="https://play-lh.googleusercontent.com/Snu-PktsqfjthE4GwulWDqi_KgmERwhe7GQB8SQc0zJUwwMwGUA5FG_IySGU9kJARu4"
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TELE RITMO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7386.jpg.e46eb18d036118d62c9cb14e616d07c5.jpg"
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+
