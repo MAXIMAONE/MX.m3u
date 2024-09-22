@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
@@ -17,5 +16,5 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TELE RITMO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7386.jpg.e46eb18d036118d62c9cb14e616d07c5.jpg"
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"
+#EXTINF:-1 tvg-id="FOX SPORTS  2 México" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"
 http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132269.ts
