@@ -4,8 +4,6 @@
 http://galaxypro.online:8080/live/ROXANA89/ROXA172316/674181.ts
 #EXTINF:-1 tvg-id=" FOX SPORTS 2 (argentina)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE56R52ow0uwEoqJ3HFqYP6k8SQ3RBLcB4hQ&s"
 http://tvbross.com:8090/live/Ruben2023/2023Ruben/17756.ts
-#EXTINF:-1 tvg-id=" FOX SPORTS 3 (México)" tvg-logo="https://i.ytimg.com/vi/Z2_19oGaU-g/sddefault.jpg"
-http://stkip.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/3092.ts
 #EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS  1 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png"
@@ -18,3 +16,4 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TELE RITMO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7386.jpg.e46eb18d036118d62c9cb14e616d07c5.jpg"
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+
