@@ -18,3 +18,7 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="FOX SPORTS  2 México" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"
 http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132269.ts
+#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png"
+https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
+
+
