@@ -8,7 +8,7 @@ http://tvbross.com:8090/live/Ruben2023/2023Ruben/17756.ts
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqsohbYPl6ZVREakaeAmJDdfolZbsSSK6PA&s"
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:-1 tvg-id=" FOX SPORTS  2 (México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png"
+#EXTINF:-1 tvg-id=" FOX SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png"
 http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132269.ts
 #EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480-rw"
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
