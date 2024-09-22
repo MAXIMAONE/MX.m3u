@@ -6,9 +6,9 @@ http://galaxypro.online:8080/live/ROXANA89/ROXA172316/674181.ts
 http://tvbross.com:8090/live/Ruben2023/2023Ruben/17756.ts
 #EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS  1 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png"
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/1971.ts
-#EXTINF:-1 tvg-id=" FOX SPORTS  2 (México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png"
+#EXTINF:-1 tvg-id="FOX SPORTS/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqsohbYPl6ZVREakaeAmJDdfolZbsSSK6PA&s"
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1 tvg-id=" FOX SPORTS  2 (México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png"
 http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132269.ts
 #EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480-rw"
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
@@ -20,5 +20,8 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3
 http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132269.ts
 #EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png"
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
+
+
+
 
 
