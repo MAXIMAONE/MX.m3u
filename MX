@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id=" Fox Sports 2 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png"
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id=" FOX SPORTS 2 (argentina)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE56R52ow0uwEoqJ3HFqYP6k8SQ3RBLcB4hQ&s"
-http://tvbross.com:8090/live/Ruben2023/2023Ruben/17756.ts
 #EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqsohbYPl6ZVREakaeAmJDdfolZbsSSK6PA&s"
@@ -21,10 +19,4 @@ http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132269.ts
 #EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png"
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
-
-IOICBHJM.
-
-
-
-
-
+3434
