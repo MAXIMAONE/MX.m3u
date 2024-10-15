@@ -4,8 +4,6 @@
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqsohbYPl6ZVREakaeAmJDdfolZbsSSK6PA&s"
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480-rw"
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id=" Recuerdos Retro Radio TV ✪ " tvg-logo="https://play-lh.googleusercontent.com/Snu-PktsqfjthE4GwulWDqi_KgmERwhe7GQB8SQc0zJUwwMwGUA5FG_IySGU9kJARu4"
@@ -14,4 +12,3 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png"
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
-OKK
