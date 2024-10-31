@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" Fox Sports 2 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png"
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://tvazteca.brightspotcdn.com/02/3a/97274f9d42e89c1f5028ac7f5bab/ded.jpg"
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480-rw"
@@ -12,3 +12,16 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png"
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://st1.uvnimg.com/6a/34/43170cc70baee621d09e0c70ba95/las-estrellas.jpg"
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg"
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="UNIVISION" tvg-logo=""
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+#EXTINF:-1 tvg-id="FOX SPORT USA" tvg-logo="https://seeklogo.com/images/F/Fox_Sports-logo-5B8E91B9E9-seeklogo.com.png"
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN Premium HD" tvg-logo="https://iili.io/JKrJQV9.png"
+http://209.45.20.210:50001/play/a02p/index.m3u8
+
+
+OKISS
