@@ -1,19 +1,36 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="MILENIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png"
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480-rw"
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id=" Recuerdos Retro Radio TV ✪ " tvg-logo="https://play-lh.googleusercontent.com/Snu-PktsqfjthE4GwulWDqi_KgmERwhe7GQB8SQc0zJUwwMwGUA5FG_IySGU9kJARu4"
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://image.roku.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-04-at-11.04.47-AM.png"
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Undefined",Teleritmo (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://pbs.twimg.com/profile_images/1612332068700037121/KVVT242G_400x400.jpg"
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="CANAL 6 MONTERREY" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPQnUY3XHSVdbRuetsJSxKL9RIn7QIQexwTdX5cLB8=s900-c-k-c0x00ffffff-no-rj"
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional " tvg-logo="https://pbs.twimg.com/profile_images/1761972439863402496/HYFYy2Zg_400x400.jpg"
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://pbs.twimg.com/profile_images/1612332068700037121/KVVT242G_400x400.jpg"
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="CANAL 44 Chihuahua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png"
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL 14 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Canal_14_M%C3%A9xico.svg"
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png"
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="IWRG DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/LOGOTIPO_IWRG.png"
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="La Voz Grupera TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDjbF8fOiw95Rw4hge1uHIw-F_14tGWivhfA&s"
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/SRQxnY4/images.png"
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Multimedios Ciudad Juárez 6" tvg-logo="https://i.ytimg.com/vi/iaPUCNAvpTE/sddefault.jpg"
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-id="TeleFórmula" tvg-logo="https://pbs.twimg.com/media/DYcvjLiV4AEYKV7.png"
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="TVE Star HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjGtjeLY_3ngLG2UZYAv60gwY7NPYTLSr9g&s"
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
