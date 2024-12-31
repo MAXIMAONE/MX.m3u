@@ -34,3 +34,6 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="TVE Star HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjGtjeLY_3ngLG2UZYAv60gwY7NPYTLSr9g&s"
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=""
