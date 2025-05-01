@@ -18,8 +18,6 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png"
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="IWRG DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/LOGOTIPO_IWRG.png"
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="La Voz Grupera TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDjbF8fOiw95Rw4hge1uHIw-F_14tGWivhfA&s"
